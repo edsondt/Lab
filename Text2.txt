@@ -1,2 +1,2 @@
-A changed the furst line.
+A changed the first line. B updated this first line.
 A added line 2.
