@@ -1,1 +1,2 @@
 A changed the furst line.
+A added line 2.
