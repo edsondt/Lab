@@ -1,2 +1,1 @@
-A changed the first line. B updated this first line.
-A added line 2.
+B cleaned up this file.
