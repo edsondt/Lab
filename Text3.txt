@@ -1,2 +1,3 @@
 A changed the first line. B updated this first line.
 A added this line.
+B added this line.
